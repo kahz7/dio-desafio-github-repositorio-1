@@ -1,0 +1,29 @@
+Link para download https://git-scm.com/download/win
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+------------------------------------------------------------
+
+CMD/ PROMPT DE COMANDO -> GIT HUB
+
+dir          -> listar diretórios/pastas
+cd /         -> vai pro diretorio C
+cd Windows   -> entro dentro da pasta Windows (digita cd e nome da pasta)
+cd..         -> volto pra pasta anterior
+cls          -> limpa a tela
+ctrl+L       -> limpa a tela
+tecla TAB    -> auto completa a palavra (Digita a primeira letra e TAB)
+mkdir        -> criar uma pasta (mkdir nomedapasta)
+echo hello   -> cria um arquivo (echo hello > hello.txt)
+del          -> deleta apenas arquivo msm se colocar nome da pasta (del nomedapasta ou arquivo)
+seta p cima  -> vai listando comando usados anteriormente
+rmdir        -> remove o repositorio/pasta com tudo q tem dentro (rmdir nomepasta /S /Q)
+ls           -> lista os arquivos da pasta (listei ssh)
+git status   -> exibe as condições do diretório de trabalho e da área de staging
+shift+insert -> cola 
+ctrl+insert  -> copia
+
+--------------------------------------------------
+touch texto.txt (cria o arquivo primeiro na pasta q vc está)
+openssl sha1 texto.txt (gera codigo de caracteres do arquivo e a cada vez modificado)
+
+

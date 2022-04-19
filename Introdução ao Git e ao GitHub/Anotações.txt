@@ -6,7 +6,7 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 CMD/ PROMPT DE COMANDO -> GIT HUB
 
 dir          -> listar diretórios/pastas
-cd /         -> vai pro diretorio C
+cd /         -> vai pro diretorio 
 cd Windows   -> entro dentro da pasta Windows (digita cd e nome da pasta)
 cd..         -> volto pra pasta anterior
 cls          -> limpa a tela
@@ -21,6 +21,13 @@ ls           -> lista os arquivos da pasta (listei ssh)
 git status   -> exibe as condições do diretório de trabalho e da área de staging
 shift+insert -> cola 
 ctrl+insert  -> copia
+
+Enviar para o GITHUB
+git add .
+git add -A   
+git commit -m "mensagem"
+git push origin main 
+
 
 --------------------------------------------------
 touch texto.txt (cria o arquivo primeiro na pasta q vc está)
